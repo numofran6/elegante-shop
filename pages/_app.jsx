@@ -26,17 +26,17 @@ export default function App({
 				<meta name="theme-color" content="#000000" />
 				<meta
 					name="description"
-					content="E-Commerce App. Project of Numo Francis, an expert in crafting software solutions that address unique challenges and measurably impact the bottom line."
+					content="A modern eCommerce platform designed to deliver a seamless shopping experience from homepage to checkout. Featuring dynamic product listings, cart management, secure user authentication, and order tracking — all backed by a robust Express.js API and a responsive React interface."
 				/>
 				<meta
 					name="keywords"
 					content="Frontend Developer, Mobile Developer, Open Source, Freelance Web Developer, Freelance Mobile Developer, Javascript Developer, Developer Portfolio, React Developer, Web Developer, React Frontend Developer"
 				/>
 
-				<meta property="og:title" content="Eleganté Shop" />
+				<meta property="og:title" content="E-commerce tailored to your brand" />
 				<meta
 					property="og:description"
-					content="E-Commerce App. Project of Numo Francis, an expert in crafting software solutions that address unique challenges and measurably impact the bottom line."
+					content="A modern eCommerce platform designed to deliver a seamless shopping experience from homepage to checkout. Featuring dynamic product listings, cart management, secure user authentication, and order tracking — all backed by a robust Express.js API and a responsive React interface."
 				/>
 				<meta property="og:image" content="/images/ogelegante.png" />
 				<meta property="og:image:width" content="923" />
