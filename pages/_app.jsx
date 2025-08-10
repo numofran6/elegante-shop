@@ -38,7 +38,10 @@ export default function App({
 					property="og:description"
 					content="A modern eCommerce platform designed to deliver a seamless shopping experience from homepage to checkout. Featuring dynamic product listings, cart management, secure user authentication, and order tracking — all backed by a robust Express.js API and a responsive React interface."
 				/>
-				<meta property="og:image" content="/images/ogelegante.png" />
+				<meta
+					property="og:image"
+					content="https://elegante-shop.vercel.app/images/elegante-cover.png"
+				></meta>
 				<meta property="og:image:width" content="923" />
 				<meta property="og:image:height" content="237" />
 
@@ -47,9 +50,26 @@ export default function App({
 				<meta property="og:type" content="website" />
 				<meta name="twitter:card" content="summary_large_image" />
 				<meta property="og:url" content="https://elegante-shop.vercel.app/" />
-				<meta name="twitter:card" content="summary" />
 				<meta name="theme-color" content="#000000" />
 				<meta name="robots" content="index, follow" />
+				
+				<meta property="twitter:domain" content="elegante-shop.vercel.app" />
+				<meta
+					property="twitter:url"
+					content="https://elegante-shop.vercel.app/"
+				/>
+				<meta
+					name="twitter:title"
+					content="E-commerce tailored to your brand"
+				/>
+				<meta
+					name="twitter:description"
+					content="A modern eCommerce platform designed to deliver a seamless shopping experience from homepage to checkout. Featuring dynamic product listings, cart management, secure user authentication, and order tracking — all backed by a robust Express.js API and a responsive React interface."
+				/>
+				<meta
+					name="twitter:image"
+					content="https://elegante-shop.vercel.app/images/elegante-cover.png"
+				/>
 
 				<link rel="preconnect" href="https://fonts.googleapis.com" />
 				<link
